@@ -1,0 +1,104 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Bucket
+   uuid = "9443EC12-3534-4AF7-8F14-65592F8BA006"
+   type = "0"
+   version = "2.0">
+   <Breakpoints>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "9FF00C98-1DD9-4D57-A32B-EF56251289CD"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Pods/OpenAISwift/Sources/OpenAISwift/OpenAISwift.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "217"
+            endingLineNumber = "217"
+            landmarkName = "prepareRequest(_:body:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "4CFAA31B-8B28-476E-97D8-D5EBF159A8C2"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Pods/OpenAISwift/Sources/OpenAISwift/OpenAISwift.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "29"
+            endingLineNumber = "29"
+            landmarkName = "init(authToken:config:)"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "4CFAA31B-8B28-476E-97D8-D5EBF159A8C2 - 97f51115c689e12b"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "OpenAISwift.OpenAISwift.__allocating_init(authToken: Swift.String, config: OpenAISwift.OpenAISwift.Config) -&gt; OpenAISwift.OpenAISwift"
+                  moduleName = "OpenAISwift"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/user1/Desktop/Projects/FinalProject/Pods/OpenAISwift/Sources/OpenAISwift/OpenAISwift.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "0"
+                  endingLineNumber = "0"
+                  offsetFromSymbolStart = "43">
+               </Location>
+               <Location
+                  uuid = "4CFAA31B-8B28-476E-97D8-D5EBF159A8C2 - 7fea6f3abc5149e8"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "OpenAISwift.OpenAISwift.init(authToken: Swift.String, config: OpenAISwift.OpenAISwift.Config) -&gt; OpenAISwift.OpenAISwift"
+                  moduleName = "OpenAISwift"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/user1/Desktop/Projects/FinalProject/Pods/OpenAISwift/Sources/OpenAISwift/OpenAISwift.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "14"
+                  endingLineNumber = "14"
+                  offsetFromSymbolStart = "70">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "12E9F219-C71E-48EE-9CC2-669EDC819C75"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "FinalProject/ContentView.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "15"
+            endingLineNumber = "15"
+            landmarkName = "setup()"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "EE75A210-F538-4AA8-B096-3D85F4BE43EE"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Pods/OpenAISwift/Sources/OpenAISwift/OpenAISwift.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "130"
+            endingLineNumber = "130"
+            landmarkName = "sendChat(with:model:user:temperature:topProbabilityMass:choices:stop:maxTokens:presencePenalty:frequencyPenalty:logitBias:completionHandler:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+   </Breakpoints>
+</Bucket>
